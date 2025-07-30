@@ -1,0 +1,3 @@
+[submodule "isak.friis-jespersen"]
+	path = isak.friis-jespersen
+	url = git@github.com:terrorbollen/isak.friis-jespersen.git
